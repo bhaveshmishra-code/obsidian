@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "706f8161e528b379",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ab0421bad5ef4ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9424f5cb96bd5046",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "29b7df34bb29e4f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9193a175ff1b888d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b089ebbfb69f6b46",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c2952aa9c05ef11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "949057445b626b08",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a14da7136078709",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42dfec3e8bdb2d62",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2de531271c516dcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c611eac4a4d3c0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cd7775585aee42a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d1dfa248f79d76d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "206f9e0458b85d1f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7d17d50551890c88",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9424f5cb96bd5046",
+  "lastOpenFiles": [
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.97.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.96.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.95.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.94.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.93.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.92.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.91.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.90.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.9.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.89.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.88.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.87.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.86.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.85.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.84.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.83.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.82.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.81.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.80.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.8.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.79.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.78.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.77.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.76.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.75.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4/7.4.74.md",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-4",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-3",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-2",
+    "Sanskrit/Astadhyayi/Adhyaya-7/Paath-1",
+    "Sanskrit/Astadhyayi/Adhyaya-8/Paath-4",
+    "Sanskrit/Astadhyayi/Adhyaya-8/Paath-3",
+    "Sanskrit/Astadhyayi/Adhyaya-8/Paath-2",
+    "Sanskrit/Astadhyayi/Adhyaya-8/Paath-1",
+    "Sanskrit/Astadhyayi/Adhyaya-6/Paath-4",
+    "Sanskrit/Astadhyayi/Adhyaya-6/Paath-3"
+  ]
+}
